@@ -1,4 +1,4 @@
-# How to download sourcemod and metamod in csgo (Single-Play)
+# How to show custom particles on csgo (Single-Play)
 ## Install SourceMod
 [SourceMod Download](https://www.sourcemod.net/downloads.php?branch=dev, "SourceMod Link")
 Go to the link.
