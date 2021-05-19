@@ -35,3 +35,7 @@ Place the contents in the path csgo\addons\sourcemod\plugins.
 
 ## Finish
 If you add the -insecure option, you will not be able to enter the valve official server (matchmaking, community server, etc.). You only need to enter this option when testing for custom particles and remove the option when playing the game.
+
+## Also
+[ze_worlds_v1_particles.txt](https://github.com/sweetSD/csgo-hammer/files/6510706/ze_worlds_v1_particles.txt)
+Create a text file in the csgo\maps path in the same format as that file. {map_name}_particles.txt
